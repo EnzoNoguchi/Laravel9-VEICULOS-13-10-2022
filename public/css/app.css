@@ -1,0 +1,32 @@
+.container {
+    width: 100%;
+    height: auto;
+    padding-top: 50px;
+}
+
+
+.opcoes {
+    width: 100%;
+    height: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
+
+
+.pronto {
+    width: 100%;
+    height: auto;
+    padding-bottom: 50px;
+    padding-left: 50%;
+}
+
+
+
+.form-label {
+   
+    
+   
+    padding-left: 1%;
+}
